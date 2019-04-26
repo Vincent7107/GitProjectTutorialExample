@@ -7,3 +7,5 @@ Just an example for my Tutorial.
 Tutorial PPT :
 
 https://slides.com/jimting/git/#/
+
+https://travis-ci.org/Vincent7107/GitProjectTutorialExample.svg?branch=master
