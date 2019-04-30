@@ -27,7 +27,7 @@ deploy:
   provider: heroku
   api_key:
     secure: 41d582e7-2cf3-433c-a468-d1aadfa0e875
-  app: test-my-travisci-project
+  app: available123
   on:
     repo: Vincent7107/GitProjectTutorialExample
   #Setting your heroku Procfile here!!!
